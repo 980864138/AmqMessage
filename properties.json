@@ -6,8 +6,9 @@
   "data_sources": [
     {
       "name": "AVMOO 日本",
-      "link": "https://javzoo.com",
+      "link": "https://avmoo.asia",
       "legacies":[
+        "javzoo.com",
         "avmoo.xyz",
         "avmoo.net",
         "avmoo.pw",
@@ -37,15 +38,16 @@
     },
     {
       "name": "AVMEMO 欧美",
-      "link": "https://avme.pw",
+      "link": "https://avmemo.asia",
       "legacies":[
+        "avme.pw",
         "avxo.pw",
         "avso.club"
       ]
     }
   ],
   "avgle": "https://api.avgle.com",
-  "btso": "https://btsow.pw",
+  "btso": "https://btspread.com",
   "psvs": "http://api.rekonquer.com",
   "torrentKitty": "https://www.torrentkitty.tv"
 }
